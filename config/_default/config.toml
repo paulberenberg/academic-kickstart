@@ -9,7 +9,7 @@ title = "Paul Berenberg-Gossler"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://paulberenberg.github.io/"
 
 #Publish directory
 publishDir = "docs"
